@@ -7,23 +7,23 @@ A Java OOP project for managing events. You can add, edit, delete and view event
 
 ## What does it do?
 
-This app lets you manage three types of events — concerts, conferences, and birthdays. Everything is saved to a file so your data stays after you close the app.
+This app lets you manage three types of events concerts, conferences, and birthdays. Everything is saved to a file so your data stays after you close the app.
 
 **Main features:**
-- Add, view, edit and delete events (CRUD)
-- Three event types: Concert, Conference, Birthday
-- Add participants to events (with email validation)
-- Search events by name
-- Export and import data in CSV format
-- GUI window built with Java Swing
+Add, view, edit and delete events (CRUD)
+Three event types: Concert, Conference, Birthday
+Add participants to events (with email validation)
+Search events by name
+Export and import data in CSV format
+GUI window built with Java Swing
 
 
 ## Project goals
 
-- Practice OOP principles: encapsulation, inheritance and polymorphism
-- Work with file I/O to save and load data
-- Build a simple but functional GUI
-- Handle user input errors properly
+Practice OOP principles: encapsulation, inheritance and polymorphism
+Work with file I/O to save and load data
+Build a simple but functional GUI
+Handle user input errors properly
 
 
 ## Project requirements
@@ -78,15 +78,15 @@ EventPlanner/
 
 When you open the app you'll see a table on the left and buttons on the right.
 
-- **Add Event** — choose the type, fill in the details, done
-- **Show All / Refresh** — updates the table with current data
-- **Edit Event** — enter the event ID and new details
-- **Delete Event** — enter the event ID to remove it
-- **Add Participant** — enter event ID, participant name and email
-- **Show Participants** — see who's added to an event
-- **Search** — type a keyword to find events by name
-- **Export CSV** — saves all events to `export.csv`
-- **Import CSV** — loads events from `export.csv`
+**Add Event** — choose the type, fill in the details, done
+**Show All / Refresh** — updates the table with current data
+**Edit Event** — enter the event ID and new details
+**Delete Event** — enter the event ID to remove it
+**Add Participant** — enter event ID, participant name and email
+**Show Participants** — see who's added to an event
+**Search** — type a keyword to find events by name
+**Export CSV** — saves all events to `export.csv`
+**Import CSV** — loads events from `export.csv`
 
 ## Data storage
 
@@ -101,14 +101,14 @@ Birthday,EVT-2,Sara's Birthday,20.07.2025,Home,Sara
 
 ## Difficulties I faced
 
-The trickiest part was the file saving/loading — I had to make sure that commas inside event names wouldn't break the file. I fixed it by using `split(",", 6)` which limits how many parts the line gets split into.
+The trickiest part was the file saving/loading I had to make sure that commas inside event names wouldn't break the file. I fixed it by using `split(",", 6)` which limits how many parts the line gets split into.
 
-Another thing was the GUI — I had to add special `*AsString()` methods in `EventManager` because Swing can't display things printed to the console.
+Another thing was the GUI I had to add special `*AsString()` methods in `EventManager` because Swing can't display things printed to the console.
 
 
 ## Technologies
 
-- Java
-- Java Swing (GUI)
-- File I/O with `BufferedReader` and `PrintWriter`
-- CSV export/import
+Java
+Java Swing (GUI)
+File I/O with `BufferedReader` and `PrintWriter`
+CSV export/import
