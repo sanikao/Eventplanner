@@ -112,3 +112,23 @@ Java
 Java Swing (GUI)
 File I/O with `BufferedReader` and `PrintWriter`
 CSV export/import
+
+## Screenshots
+
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 04 50" src="https://github.com/user-attachments/assets/409de3e0-49cf-4d64-a320-40851eb8d850" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 09 13" src="https://github.com/user-attachments/assets/8ed847ee-5342-4e4b-ab3c-49e2412cfdd8" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 10 52" src="https://github.com/user-attachments/assets/a8ceea82-4339-4ea3-ad90-03966e53f805" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 08 27" src="https://github.com/user-attachments/assets/d96b2937-1837-4400-8d02-397a16698761" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 10 49" src="https://github.com/user-attachments/assets/096fc5b1-a931-4d2f-ab13-e2d7a776ba7c" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 07 13" src="https://github.com/user-attachments/assets/39a94afe-4993-4784-b6c4-b1ea37cb3692" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 10 11" src="https://github.com/user-attachments/assets/329c08c0-f94a-4f23-9ed0-ca735a46c549" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 02 26" src="https://github.com/user-attachments/assets/d9040c8e-2fca-4063-a1c3-7873e982dc97" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 10 08" src="https://github.com/user-attachments/assets/24a62dd1-8041-41bb-af2e-c4f2e1a5dda0" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 11 15" src="https://github.com/user-attachments/assets/59d844f5-bc54-45c6-95be-4a340bdf745b" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 11 36" src="https://github.com/user-attachments/assets/de120ea1-b093-4f49-9efa-d60abef2500b" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 12 30" src="https://github.com/user-attachments/assets/17ec55df-4e28-440d-9445-b8e0fad5d56e" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 12 33" src="https://github.com/user-attachments/assets/53f24798-8026-488a-a6af-fb77810214f3" />
+<img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 09 10" src="https://github.com/user-attachments/assets/455f945b-82e8-478d-9c3f-7e578910788a" />
+
+
+
