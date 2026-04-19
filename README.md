@@ -113,6 +113,8 @@ Java Swing (GUI)
 File I/O with `BufferedReader` and `PrintWriter`
 CSV export/import
 
+## Presentation https://drive.google.com/file/d/1kV20owjcTdRCO6GR99qY0BkHECX7ObxL/view?usp=sharing
+
 ## Screenshots
 
 <img width="1470" height="956" alt="Screenshot 2026-04-17 at 11 04 50" src="https://github.com/user-attachments/assets/409de3e0-49cf-4d64-a320-40851eb8d850" />
