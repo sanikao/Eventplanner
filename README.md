@@ -88,7 +88,7 @@ When you open the app you'll see a table on the left and buttons on the right.
 **Export CSV** — saves all events to `export.csv`
 **Import CSV** — loads events from `export.csv`
 
-## Data storage
+## Data storage bonus
 
 Events are saved automatically to `events.txt` after every change. The format looks like this:
 
@@ -97,6 +97,19 @@ Concert,EVT-1,Rock Night,15.06.2025,Almaty,The Strokes
 PARTICIPANT,Alex,alex@gmail.com
 Birthday,EVT-2,Sara's Birthday,20.07.2025,Home,Sara
 ```
+
+## Authentication & User Roles Bonus
+
+The app has a login system. Before accessing anything, the user must log in.
+
+There are two roles:
+
+| Role | Username | Password | Access |
+|------|----------|----------|--------|
+| Admin | `admin` | `admin123` | Full access — can add, edit, delete, import |
+| User | `user` | `user123` | Read only — can view, search and export |
+
+If the wrong credentials are entered, an error message appears and access is denied. The role is shown in the window title after login.
 
 
 ## Difficulties I faced
@@ -113,7 +126,7 @@ Java Swing (GUI)
 File I/O with `BufferedReader` and `PrintWriter`
 CSV export/import
 
-## Presentation https://drive.google.com/file/d/1kV20owjcTdRCO6GR99qY0BkHECX7ObxL/view?usp=sharing
+## Presentation [https://drive.google.com/file/d/1kV20owjcTdRCO6GR99qY0BkHECX7ObxL/view?usp=sharing](https://drive.google.com/file/d/1ylZEdruXUBnzUMSS4TxET6z1iBTMf305/view?usp=sharing)
 
 ## Screenshots
 
